@@ -1,2 +1,2 @@
-# CodeForces_by_C++
+# CodeForces
 Problem solving
